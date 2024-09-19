@@ -1,0 +1,28 @@
+﻿  OpenGL_udemy_project1.cpp
+  test.cpp
+  Kod Üretiliyor...
+test.obj : error LNK2005: main zaten OpenGL_udemy_project1.obj üzerinde tanımlandı
+OpenGL_udemy_project1.obj : error LNK2019: çözümlenmemiş dış sembol __imp_glewInit için main işlevinde başvuruldu
+test.obj : error LNK2001: çözümlenmemiş dış sembol __imp_glewInit
+OpenGL_udemy_project1.obj : error LNK2019: çözümlenmemiş dış sembol glfwInit için main işlevinde başvuruldu
+test.obj : error LNK2001: çözümlenmemiş dış sembol glfwInit
+OpenGL_udemy_project1.obj : error LNK2019: çözümlenmemiş dış sembol glfwTerminate için main işlevinde başvuruldu
+test.obj : error LNK2001: çözümlenmemiş dış sembol glfwTerminate
+OpenGL_udemy_project1.obj : error LNK2019: çözümlenmemiş dış sembol glfwWindowHint için main işlevinde başvuruldu
+OpenGL_udemy_project1.obj : error LNK2019: çözümlenmemiş dış sembol glfwCreateWindow için main işlevinde başvuruldu
+test.obj : error LNK2001: çözümlenmemiş dış sembol glfwCreateWindow
+OpenGL_udemy_project1.obj : error LNK2019: çözümlenmemiş dış sembol glfwDestroyWindow için main işlevinde başvuruldu
+test.obj : error LNK2001: çözümlenmemiş dış sembol glfwDestroyWindow
+OpenGL_udemy_project1.obj : error LNK2019: çözümlenmemiş dış sembol glfwWindowShouldClose için main işlevinde başvuruldu
+test.obj : error LNK2001: çözümlenmemiş dış sembol glfwWindowShouldClose
+OpenGL_udemy_project1.obj : error LNK2019: çözümlenmemiş dış sembol glfwGetFramebufferSize için main işlevinde başvuruldu
+OpenGL_udemy_project1.obj : error LNK2019: çözümlenmemiş dış sembol glfwPollEvents için main işlevinde başvuruldu
+test.obj : error LNK2001: çözümlenmemiş dış sembol glfwPollEvents
+OpenGL_udemy_project1.obj : error LNK2019: çözümlenmemiş dış sembol glfwMakeContextCurrent için main işlevinde başvuruldu
+test.obj : error LNK2001: çözümlenmemiş dış sembol glfwMakeContextCurrent
+OpenGL_udemy_project1.obj : error LNK2019: çözümlenmemiş dış sembol glfwSwapBuffers için main işlevinde başvuruldu
+test.obj : error LNK2001: çözümlenmemiş dış sembol glfwSwapBuffers
+OpenGL_udemy_project1.obj : error LNK2019: çözümlenmemiş dış sembol __imp_glewExperimental için main işlevinde başvuruldu
+C:\dev\OpenGL_udemy\OpenGL_udemy_project1\lib\glew-2.2.0-win32\glew-2.2.0\lib\Release\Win32\glew32.lib : warning LNK4272: 'x86' kitaplık makine türü, 'x64' hedef makine türüyle çakışıyor
+C:\dev\OpenGL_udemy\OpenGL_udemy_project1\lib\glfw-3.4.bin.WIN32\glfw-3.4.bin.WIN32\lib-vc2022\glfw3.lib : warning LNK4272: 'x86' kitaplık makine türü, 'x64' hedef makine türüyle çakışıyor
+C:\dev\OpenGL_udemy\OpenGL_udemy_project1\x64\Debug\OpenGL_udemy_project1.exe : fatal error LNK1120: 12 çözümlenmemiş dışlar
